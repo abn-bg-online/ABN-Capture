@@ -35,7 +35,7 @@ While the overlay is open: `Enter` captures, `Esc` cancels.
 
 ### Download
 
-Get the latest `ABNCapture.exe` from the [Releases](../../releases) page. It is a self-contained build, so you do not need to install .NET.
+Get the latest `ABNCapture.exe` from the [Releases](https://github.com/abn-bg-online/ABN-Capture/releases/latest) page. It is a self-contained build, so you do not need to install .NET.
 
 > The executable is not code-signed yet, so Windows SmartScreen may show "Windows protected your PC". Click **More info → Run anyway**.
 
@@ -117,7 +117,7 @@ ABN Capture живее в системната област (tray). Натиск
 
 ### Изтегляне
 
-Свали последния `ABNCapture.exe` от страницата [Releases](../../releases). Това е самостоятелна версия, така че не е нужно да инсталираш .NET.
+Свали последния `ABNCapture.exe` от страницата [Releases](https://github.com/abn-bg-online/ABN-Capture/releases/latest). Това е самостоятелна версия, така че не е нужно да инсталираш .NET.
 
 > Изпълнимият файл още не е подписан, затова Windows SmartScreen може да покаже предупреждение „Windows protected your PC". Натисни **More info → Run anyway** (бутоните може да са преведени на езика на твоя Windows).
 
@@ -199,7 +199,7 @@ ABN Capture живёт в системном трее. Нажимаешь гор
 
 ### Скачать
 
-Скачай последний `ABNCapture.exe` на странице [Releases](../../releases). Это автономная сборка, устанавливать .NET не нужно.
+Скачай последний `ABNCapture.exe` на странице [Releases](https://github.com/abn-bg-online/ABN-Capture/releases/latest). Это автономная сборка, устанавливать .NET не нужно.
 
 > Исполняемый файл пока не подписан, поэтому Windows SmartScreen может показать предупреждение «Windows защитила ваш компьютер». Нажми **Подробнее → Выполнить в любом случае**.
 
