@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wZ9gRlX6Ctc=",
+  "success": true,
+  "projectFilePath": "D:\\code\\ABNCapture\\ABNCapture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\h.generatedicons.system.drawing\\2.4.1\\h.generatedicons.system.drawing.2.4.1.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\h.notifyicon\\2.4.1\\h.notifyicon.2.4.1.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\h.notifyicon.wpf\\2.4.1\\h.notifyicon.wpf.2.4.1.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\screenrecorderlib\\7.0.1\\screenrecorderlib.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
